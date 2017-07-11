@@ -132,4 +132,5 @@ A collection of links, interesting information that cover what happened during E
 - Slides: TBR
 - Video: TBR
 - Links
-  
+- Other information
+  - Round Trip Times (RTTS) are evil 
