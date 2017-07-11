@@ -1,5 +1,5 @@
 # Embercamp 2017
-A collection of links that cover what happened during EmberCamp 2017
+A collection of links, interesting information that cover what happened during EmberCamp 2017 in London
 
 ### Photos
 
