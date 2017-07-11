@@ -13,5 +13,5 @@ A collection of links that cover what happened during EmberCamp 2017
 
 - Links
   - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
-  - [201 Created: Glimmer](https://github.com/201-created/bodega-glimmer)
-  
+  - [Glimmer: 201 Created](https://github.com/201-created/bodega-glimmer)
+  - [Glimmer: Landed Module unification](https://github.com/emberjs/rfcs/blob/master/text/0143-module-unification.md)
