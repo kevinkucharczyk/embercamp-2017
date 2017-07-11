@@ -119,7 +119,7 @@ A collection of links that cover what happened during EmberCamp 2017
   - Webcomponents spec could be used to integrate multiple frameworks React-Ember
   - Custom elements not supported by Edge
   - HTML import, only supported in Chrome
-  - Glimmer.js supports creating a web component natively. `ember new glimmer-poll -b @glimmer/blueprint --web-component`
+  - Glimmer.js supports creating a web component natively. `ember new <app-name> -b @glimmer/blueprint --web-component`
   - Promising API developments
     - HTML attributes for customisation (passing stringified JSON configuration to components)
     - HTML imports for distributing Glimmer.js components (using rel="import")
