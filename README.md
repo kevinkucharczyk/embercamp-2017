@@ -126,3 +126,10 @@ A collection of links, interesting information that cover what happened during E
     - Styles in ShadowDOM or as co-located CSS
     - Testing for Glimmer.js apps
     - `<slot></slot>` API for "yielding" component content
+    
+**SPDY, HTTP & QUIC by [Natasha Rooney](https://twitter.com/thisNatasha)**
+
+- Slides: TBR
+- Video: TBR
+- Links
+  
