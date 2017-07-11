@@ -28,6 +28,8 @@ A collection of links that cover what happened during EmberCamp 2017
   - [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache)
   - [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback)
   - [ember-web-app](https://github.com/san650/ember-web-app)
+  - [ember-decorators](https://github.com/rwjblue/ember-decorators)
 - Other information
   - Glimmer.js supports rollup treeshaking to minimise production builds
   - Glimmer.js with service workers gives a result of almost 100 on Lighthouse
+  - Glimmer.js components in Ember apps is nearly a reality!
