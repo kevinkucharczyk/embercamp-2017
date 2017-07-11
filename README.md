@@ -41,5 +41,6 @@ A collection of links that cover what happened during EmberCamp 2017
 - Links
   - [EmberConf 2017: Counter-spells and the Art of Keeping Your Application Safe by Ingrid Epure](https://www.youtube.com/watch?v=kPar8n9zaHo)
   - [AST Explorer](http://astexplorer.net/)
+  - [ember-cli-detergent](https://www.npmjs.com/package/ember-cli-detergent)
 - Other information
-
+  - Disable style related rules in eslint for dev build time for developing code faster
