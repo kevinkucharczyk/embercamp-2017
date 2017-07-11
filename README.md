@@ -7,6 +7,8 @@ A collection of links that cover what happened during EmberCamp 2017
 
 ### Live Blogs / Streams / Highlights
 
+* None
+
 ### Talks
 
 **Opening Keynote by [Matthew Beale](https://twitter.com/mixonic)**
@@ -59,3 +61,42 @@ A collection of links that cover what happened during EmberCamp 2017
   - [maximum-plaid](https://github.com/ivanvanderbyl/maximum-plaid)
   - [Generate charts in fastboot using Ember](https://github.com/ember-fastboot/ember-cli-fastboot/issues/105#issuecomment-187246877)
   - [Glimmer Regydration](https://github.com/glimmerjs/glimmer-vm/pull/549)
+
+**Ember, more than the sum of its parts by [Ricardo Mendes](https://twitter.com/locks)**
+
+- Slides: TBR
+- Video: TBR
+- Links
+  - [New api docs website!](https://emberjs.com/api) & [Github](https://github.com/ember-learn/ember-api-docs)
+  - [Making Ember.js Easier](https://emberjs.com/blog/2013/03/21/making-ember-easier.html)
+  - [Be the bark](https://madhatted.com/2016/2/10/be-the-bark-ember-js-community)
+  - [Ember Hearth](https://ember-hearth.readme.io/)
+  - [Ember CLI addon docs](https://github.com/ember-learn/ember-cli-addon-docs)
+  - [Ember Language server](https://github.com/emberwatch/ember-language-server)
+- Other information
+  - New ember learning team members! [Sivakumar kailasam](https://twitter.com/sivakumar_k)  [Terence Lee](https://twitter.com/hone02) 🙏
+  - Road ahead
+    - Restructuring guides to make it easier to find things
+    - Provide support and material for creating your own workshops
+    - Improvements on Ember API docs
+    - Unify styleguides of all plugins & improve accessibility
+    - New help wanted section
+
+**Better Test selectors leveraging the complete Ember toolbelt by [Marco Otte-Witte](https://twitter.com/marcoow)**
+
+- Slides: TBR
+- Video: TBR
+- Links
+
+**Making Titanic Ember Apps Feel Tiny by [Marten Schilstra](https://twitter.com/Martndemus)**
+
+- Slides: TBR
+- Video: TBR
+- Links
+
+**The Modern State of Web Components - A Glimmer of Hope by [Jessica Jordan](https://twitter.com/jjordan_dev)**
+
+- Slides: TBR
+- Video: TBR
+- Links
+
