@@ -112,4 +112,17 @@ A collection of links that cover what happened during EmberCamp 2017
 - Slides: TBR
 - Video: TBR
 - Links
-
+  - (Webcomponents spec)[https://github.com/w3c/webcomponents]
+  - [Webcomponents pollyfill available](https://github.com/webcomponents/webcomponentsjs)
+  - [glimmer-poll example](https://github.com/jessica-jordan/glimmer-poll)
+- Other information
+  - Webcomponents spec could be used to integrate multiple frameworks React-Ember
+  - Custom elements not supported by Edge
+  - HTML import, only supported in Chrome
+  - Glimmer.js supports creating a web component natively. `ember new glimmer-poll -b @glimmer/blueprint --web-component`
+  - Promising API developments
+    - HTML attributes for customisation (passing stringified JSON configuration to components)
+    - HTML imports for distributing Glimmer.js components (using rel="import")
+    - Styles in ShadowDOM or as co-located CSS
+    - Testing for Glimmer.js apps
+    - `<slot></slot>` API for "yielding" component content
