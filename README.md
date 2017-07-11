@@ -31,4 +31,3 @@ A collection of links that cover what happened during EmberCamp 2017
 - Other information
   - Glimmer.js supports rollup treeshaking to minimise production builds
   - Glimmer.js with service workers gives a result of almost 100 on Lighthouse
-  
