@@ -87,6 +87,11 @@ A collection of links that cover what happened during EmberCamp 2017
 - Slides: TBR
 - Video: TBR
 - Links
+  - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors)
+  - [ember-test-selectors screencast](https://embermap.com/video/ember-test-selectors)
+  - [Glimmer.js: ember-test-selectors support pending](https://github.com/simplabs/ember-test-selectors/issues/129)
+- Other information
+  - ember-test-selectors strip out `data-test` attributes from production builds to not increase bundle size
 
 **Making Titanic Ember Apps Feel Tiny by [Marten Schilstra](https://twitter.com/Martndemus)**
 
