@@ -40,5 +40,6 @@ A collection of links that cover what happened during EmberCamp 2017
 - Slides: TBR
 - Links
   - [EmberConf 2017: Counter-spells and the Art of Keeping Your Application Safe by Ingrid Epure](https://www.youtube.com/watch?v=kPar8n9zaHo)
+  - [AST Explorer](http://astexplorer.net/)
 - Other information
-  - 
+
