@@ -112,7 +112,7 @@ A collection of links, interesting information that cover what happened during E
 - Slides: TBR
 - Video: TBR
 - Links
-  - (Webcomponents spec)[https://github.com/w3c/webcomponents]
+  - [Webcomponents spec](https://github.com/w3c/webcomponents)
   - [Webcomponents pollyfill available](https://github.com/webcomponents/webcomponentsjs)
   - [glimmer-poll example](https://github.com/jessica-jordan/glimmer-poll)
 - Other information
