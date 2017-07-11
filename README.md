@@ -98,6 +98,14 @@ A collection of links that cover what happened during EmberCamp 2017
 - Slides: TBR
 - Video: TBR
 - Links
+  - [use rel="preload" for loading stylesheets](http://caniuse.com/#search=preload), for full compatibility use [loadcss polyfill](https://github.com/filamentgroup/loadCSS)
+  - [ember-service-worker - returning visitors](https://github.com/DockYard/ember-service-worker)
+  - [PRPL](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
+- Other information
+  - Not recommended to use service-worker to cache api responses
+    - Use IndexedDB to store api responses
+  - Precache most common used modules
+  - Lazy-load other modules using engines
 
 **The Modern State of Web Components - A Glimmer of Hope by [Jessica Jordan](https://twitter.com/jjordan_dev)**
 
