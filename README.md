@@ -52,7 +52,7 @@ A collection of links, interesting information that cover what happened during E
 
 **A FastBootable approach to D3-based graphing by [Kevin Kucharczyk](https://twitter.com/kevinkucharczyk)**
 
-- Slides: TBR
+- Slides: https://drive.google.com/open?id=0BzyFJN7YnfPuTGhzLVZyNTRNY28
 - Video: TBR
 - Links
   - [ember-d3](https://github.com/ivanvanderbyl/ember-d3)
